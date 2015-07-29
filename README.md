@@ -7,5 +7,5 @@ $ ruby program_runner.rb <nameofdatafile>
 Ruby version 1.9.3
 RSpec -v 2.14.7
 #RSpec
-To run tests check that current working directory is 'Price_Combinations_Finder' folder and type:
+To run tests, check that working directory is one above lib and spec folders and type:
 $ rspec 
